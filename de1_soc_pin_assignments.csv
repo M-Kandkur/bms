@@ -1,0 +1,8 @@
+To,Direction,Location,I/O Bank,VCCIO,I/O Standard,Reserved
+clk,Input,PIN_AF14,3B,3.3V,3.3-V LVTTL,
+rst_n,Input,PIN_AA14,3B,3.3V,3.3-V LVTTL,
+scl,Bidir,PIN_AG28,7,3.3V,3.3-V LVTTL,
+sda,Bidir,PIN_AF28,7,3.3V,3.3-V LVTTL,
+uart_tx_pin,Output,PIN_AB21,5A,3.3V,3.3-V LVTTL,
+led_ready,Output,PIN_V16,6,2.5V,2.5 V,
+led_error,Output,PIN_W16,6,2.5V,2.5 V,
